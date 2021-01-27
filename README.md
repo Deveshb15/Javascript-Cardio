@@ -1,5 +1,7 @@
 # Javascript Cardio🔥
 
+<a href="https://github.com/Deveshb15/Javascript-Cardio/blob/master/LICENSE"><img src="https://img.shields.io/npm/l/tailwindcss.svg" alt="License"></a>
+
 > Javascript Challenges for improving problem solving skills🌻
 
 ---
